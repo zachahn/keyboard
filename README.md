@@ -13,3 +13,20 @@ them.)
 * Open "Kinesis KB" v-drive (Program + F1)
   * PUM is required
 * Unmount v-drive (Program + F1)
+
+
+## How to remap a key
+
+I always have a hard time figuring out what they mean by" source key" and
+"destination key".
+
+Let's say I want my Caps Lock button to actually be my left CTRL button. What do
+I do?
+
+Once getting into program remap mode, first press "left CTRL", then press
+"caps lock".
+
+This will add the line `[caps]>[lctrl]` to your config.
+
+Note: Although your keyboard may be in MacOS mode, when remapping, your keys are
+always in Windows mode.
