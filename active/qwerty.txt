@@ -1,3 +1,6 @@
+[caps]>[lctrl]
+[up]>[down]
+[down]>[up]
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
